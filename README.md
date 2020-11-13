@@ -1,2 +1,2 @@
-# TheNthMichaelNickerson.github.io
+# TheNthMichael.github.io
 Personal Website
